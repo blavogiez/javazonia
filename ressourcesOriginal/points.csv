@@ -1,0 +1,10 @@
+numero,ligne,colonne,paysnum,etat,caractere
+1,41,38,1,false,'1'
+2,44,119,2,false,'2'
+3,27,66,3,false,'3'
+4,32,50,4,false,'4'
+5,41,31,5,false,'5'
+6,25,43,6,false,'6'
+7,40,75,7,false,'7'
+8,26,82,8,false,'8'
+9,20,128,9,false,'9'
