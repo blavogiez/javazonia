@@ -14,7 +14,7 @@ Cette version simplifiée et ludique permet d'apprendre rapidement *Java* en "ma
 
 Cependant, *iJava* reste limité et fermé dans ses fonctionnalités, ce qui impose parfois de recourir à des méthodes complexes pour des tâches qui seraient plus simples à réaliser dans d'autres langages.  
 
-Un effort particulier a été apporté à la lisibilité et à la modularité du code, de sorte que presque tout le monde puisse le modifier facilement !  
+Un effort particulier a été apporté à la lisibilité et à la modularité du code, de sorte à ce que presque tout le monde puisse le modifier facilement !  
 
 ---
 
