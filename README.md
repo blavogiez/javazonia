@@ -1,4 +1,4 @@
-# **Javazonia - Version Finale - 13 janvier 2025**
+# **Javazonia - Version finale - 13 janvier 2025**
 
 ## **Informations de développement**
 
